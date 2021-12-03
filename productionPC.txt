@@ -1,0 +1,17 @@
+Having a decent PC helps immensely with music production workflow.
+A poorly speced PC can cause bottlenecks in the creative process and eventually lead to frustuation.
+
+Some plugins utilize a lot of CPU, some eat away RAM, while some chug up anything you throw at them.
+
+
+A decent Production PC for 2021, in my opinion, will feature these components:
+
+  - 6 Cores in the CPU running at 3.5 GHz base clock or above. The lower the latency the better.
+  - A decent motherboard, doesn't have to be one of those overkill gaming ones either. A microATX form factor will also suffice.
+  - 16 GB or more of DDR4-3200 RAM. DDR5 is better, but for now it's going to be much more expensive.
+  - As much storage as your budget can get you. It's a good idea to consider NVMe SSDs as your primary device for OS and DAWs.
+  - Appropiate cooling system (for both CPU and case). Keep in mind that the cooling system should keep noise to a minimum.
+  - A well built case with adequate airflow.
+  
+  Notice how a dedicated graphics card was not included. If you're firing up one screen then honestly you don't need a dedicated graphics card for music production.
+  It's a good idea to consider them if you plan on having multiple screens, going 4K UHD or something like that.
